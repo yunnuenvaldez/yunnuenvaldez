@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Yunnuen Valdez
 
-<!--
-**yunnuenvaldez/yunnuenvaldez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer Jr.  
+IT Engineering Student
 
-Here are some ideas to get you started:
+I am a software development student passionate about building web applications, working with databases, and creating technological solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+
+### Programming Languages
+- Java
+- PHP
+- JavaScript
+- Python
+- Kotlin
+
+### Web Development
+- HTML
+- CSS
+- Vue.js
+- Node.js
+
+### Databases
+- MySQL
+
+### Tools
+- Git & GitHub
+- Visual Studio Code
+- Figma
+- Selenium
+- Cypress
+
+## Featured Projects
+
+**Cinema Management System**  
+CRUD system developed with PHP and MySQL.
+
+**Motorcycle Workshop Management System**  
+Inventory and service management system developed using agile methodologies.
+
+**Payment Gateway Integrations**  
+Implementation of payment flows using Stripe and Mercado Pago.
+
+**Automated Testing Projects**  
+Testing practices using Selenium and Cypress.
+
+## Contact
+
+Email: yunnuen.valdez.dev@gmail.com
